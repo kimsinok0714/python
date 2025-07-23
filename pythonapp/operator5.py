@@ -2,7 +2,9 @@
 
 # 소속 연산자에 대한 예제 프로그램입니다.
 
+
 # String
+
 str = "Hello, python!!"
 
 is_exist = 'p' in str
