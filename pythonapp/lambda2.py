@@ -6,9 +6,10 @@
 # def sum(a, b):
 #     return a + b
 
-
+# 람다 함수
 add = lambda a, b : a + b
 
 print(type(add))
+
 
 print(add(1, 2))
