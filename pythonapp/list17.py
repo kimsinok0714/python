@@ -1,0 +1,11 @@
+
+# list17.py
+# List Comprehension
+
+
+num_list = [2, 5, 8, 12, 3, 7]
+
+
+result = [ num for num in num_list if num % 2 == 0 ]
+
+print(f'result : {result}')
